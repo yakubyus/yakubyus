@@ -20,7 +20,4 @@ Welcome to my GitHub! I'm Jakub, a 17 year old student. I'm currently in my thir
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/) 
 [![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-darkgreen?style=flat-square&logo=qt)](https://www.qt.io/)
 
-## 📫 Get in Touch
-- Email: jakub.potakowski1@gmail.com
-  
 Have a great day!
